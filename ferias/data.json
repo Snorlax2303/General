@@ -1,0 +1,15 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Joao"
+    }
+  ],
+  "vacations": [
+    {
+      "emp_id": 1,
+      "start": "2023-12-01",
+      "end": "2023-12-10"
+    }
+  ]
+}
